@@ -20,3 +20,8 @@
 
 ## 주간 회고정리
 - <a href='https://eumgill98.tistory.com/47'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a>
+
+  
+## Level 1 Team SCV🔥
+
+<b>팀 회고 정리 <a href='https://bottlenose-oak-2e3.notion.site/Week-1-b26e7f8184454f43807c5c7afeb5794e'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/Week-2-79b46b62b99d4462b1c6dd22ec9a68eb'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a><b>
