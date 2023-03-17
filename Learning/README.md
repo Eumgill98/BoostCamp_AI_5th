@@ -8,20 +8,23 @@
 
 
 
-## 주간 학습정리 
+## 🔥주간 학습정리 
 
 - ✅Week 1
   - <a href='https://eumgill98.tistory.com/42'><img src="https://img.shields.io/badge/Part1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/43'><img src="https://img.shields.io/badge/Part2-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/44'><img src="https://img.shields.io/badge/Part2-yellow?style=flat&logo=alt=DailylogoColor=white"/></a>
 
 - ✅Week 2
-  - <a href='https://eumgill98.tistory.com/49'><img src="https://img.shields.io/badge/Day1-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/51'><img src="https://img.shields.io/badge/Day2-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/54'><img src="https://img.shields.io/badge/Day3-yellow?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/57'><img src="https://img.shields.io/badge/Day4-green?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/57'><img src="https://img.shields.io/badge/Day5-blue?style=flat&logo=alt=DailylogoColor=white"/>
+  - <a href='https://eumgill98.tistory.com/49'><img src="https://img.shields.io/badge/Day1-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/51'><img src="https://img.shields.io/badge/Day2-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/54'><img src="https://img.shields.io/badge/Day3-yellow?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/57'><img src="https://img.shields.io/badge/Day4-green?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/58'><img src="https://img.shields.io/badge/Day5-blue?style=flat&logo=alt=DailylogoColor=white"/>
 
 
 
-## 주간 회고정리
+## ✅주간 회고정리
 - <a href='https://eumgill98.tistory.com/47'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a>
 
   
-## Level 1 Team SCV🔥
+## 🔥Level 1 Team SCV🔥
+  <img style="width:200px;" src='https://liquipedia.net/commons/images/c/c2/SCSCV.jpg'>
 
-<b>팀 회고 정리 <a href='https://bottlenose-oak-2e3.notion.site/Week-1-b26e7f8184454f43807c5c7afeb5794e'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/Week-2-79b46b62b99d4462b1c6dd22ec9a68eb'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a><b>
+  <b>팀 Notion : <a href='https://bottlenose-oak-2e3.notion.site/AI-Tech-SCV-08805b8c4f5d402fb69998db98e1300b'><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&NotionlogoColor=white"/></a></b>
+
+  <b>팀 회고 정리 <a href='https://bottlenose-oak-2e3.notion.site/Week-1-b26e7f8184454f43807c5c7afeb5794e'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/Week-2-79b46b62b99d4462b1c6dd22ec9a68eb'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a><b>
