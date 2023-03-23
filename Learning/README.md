@@ -17,7 +17,8 @@
   - <a href='https://eumgill98.tistory.com/49'><img src="https://img.shields.io/badge/Day1-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/51'><img src="https://img.shields.io/badge/Day2-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/54'><img src="https://img.shields.io/badge/Day3-yellow?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/57'><img src="https://img.shields.io/badge/Day4-green?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/58'><img src="https://img.shields.io/badge/Day5-blue?style=flat&logo=alt=DailylogoColor=white"/>
   
 - ✅Week 3
-  - <a href='https://eumgill98.tistory.com/61'><img src="https://img.shields.io/badge/Day1_p1-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/62'><img src="https://img.shields.io/badge/Day1_p2-red?style=flat&logo=alt=DailylogoColor=white"/>
+  - <a href='https://eumgill98.tistory.com/61'><img src="https://img.shields.io/badge/Day1_p1-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/62'><img src="https://img.shields.io/badge/Day1_p2-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/63'><img src="https://img.shields.io/badge/Day2_p2-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/64'><img src="https://img.shields.io/badge/Day2_p2-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/65'><img src="https://img.shields.io/badge/Day3-yellow?style=flat&logo=alt=DailylogoColor=white"/>
+  
 
 
 
