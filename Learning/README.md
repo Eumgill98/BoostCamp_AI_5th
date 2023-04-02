@@ -28,7 +28,7 @@
 
 
 ## ✅주간 회고정리
-- <a href='https://eumgill98.tistory.com/47'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/60'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/69'><img src="https://img.shields.io/badge/Week3-yellow?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/75'><img src="https://img.shields.io/badge/Week2-green?style=flat&logo=alt=DailylogoColor=white"/></a>
+- <a href='https://eumgill98.tistory.com/47'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/60'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/69'><img src="https://img.shields.io/badge/Week3-yellow?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/75'><img src="https://img.shields.io/badge/Week4-green?style=flat&logo=alt=DailylogoColor=white"/></a>
 
   
 ## 🔥Level 1 Team SCV🔥
