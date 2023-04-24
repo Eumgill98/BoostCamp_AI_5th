@@ -25,9 +25,11 @@
 - ✅Week 5
   - <a href='https://eumgill98.tistory.com/76'><img src="https://img.shields.io/badge/Part1-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/77'><img src="https://img.shields.io/badge/Part2-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/78'><img src="https://img.shields.io/badge/Part3-yellow?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/79'><img src="https://img.shields.io/badge/Part4-green?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/80'><img src="https://img.shields.io/badge/Part5-blue?style=flat&logo=alt=DailylogoColor=white"/> 
   
-- ✅Week 6
+- ✅Week 6 : level1-Image Classficiation 
   - <a href='https://eumgill98.tistory.com/82'><img src="https://img.shields.io/badge/Part1-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/83'><img src="https://img.shields.io/badge/Part2-orange?style=flat&logo=alt=DailylogoColor=white"/> 
   
+- ✅Wee 7 : level1-Image Classficiation 
+  - <a href='https://bottlenose-oak-2e3.notion.site/wrap-up-report-c37b3c035f82462480954c78dabbdc5c'><img src="https://img.shields.io/badge/Report-red?style=flat&logo=alt=DailylogoColor=white"/>
 
 ## ✅주간 회고정리
 - <a href='https://eumgill98.tistory.com/47'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/60'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/69'><img src="https://img.shields.io/badge/Week3-yellow?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/75'><img src="https://img.shields.io/badge/Week4-green?style=flat&logo=alt=DailylogoColor=white"/></a>
