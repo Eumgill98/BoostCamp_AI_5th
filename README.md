@@ -32,7 +32,10 @@
   
 - ✅Wee 8 :
   - <a href='https://eumgill98.tistory.com/86'><img src="https://img.shields.io/badge/Python-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/87'><img src="https://img.shields.io/badge/Linux-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/88'><img src="https://img.shields.io/badge/Docker-yellow?style=flat&logo=alt=DailylogoColor=white"/>
-
+  
+- ✅Wee 9 : level 2 obejct detection
+  - <a href='https://eumgill98.tistory.com/90'><img src="https://img.shields.io/badge/mAP-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/91'><img src="https://img.shields.io/badge/2 Stage Objet Detection-orange?style=flat&logo=alt=DailylogoColor=white"/>  
+  
 ## ✅주간 회고정리
 - <a href='https://eumgill98.tistory.com/47'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/60'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/69'><img src="https://img.shields.io/badge/Week3-yellow?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/75'><img src="https://img.shields.io/badge/Week4-green?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/81'><img src="https://img.shields.io/badge/Week5-blue?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/84'><img src="https://img.shields.io/badge/Week6-navy?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/85'><img src="https://img.shields.io/badge/Week7-purple?style=flat&logo=alt=DailylogoColor=white"/></a> 
 
