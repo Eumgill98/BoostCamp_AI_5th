@@ -2,7 +2,7 @@
 
 # ✅네이버 부스트캠프 AI tech 5기 활동 기록장
 
-<img style="width:400px;"  src='./img/logo.png'>
+<img style="width:400px;"  src='../img/logo.png'>
 
 - 본 저장소는 `네이버 부스트캠프 AI tech 5기` 활동중 공부한 내용을 정리한 저장소입니다
 
@@ -35,6 +35,9 @@
   
 - ✅Wee 9 ~ 11 : level 2 obejct detection
   - <a href='https://eumgill98.tistory.com/90'><img src="https://img.shields.io/badge/mAP-red?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/91'><img src="https://img.shields.io/badge/2 Stage Objet Detection-orange?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/92'><img src="https://img.shields.io/badge/neck-yellow?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/93'><img src="https://img.shields.io/badge/1 Stage Objet Detection-green?style=flat&logo=alt=DailylogoColor=white"/> <a href='https://eumgill98.tistory.com/94'><img src="https://img.shields.io/badge/EfficntDet-blue?style=flat&logo=alt=DailylogoColor=white"/>
+
+- ✅Wee 12 ~ 13 : level 2 data centric
+  - <a href='https://bottlenose-oak-2e3.notion.site/4e24195971514997a054213f8a776de9?pvs=4'><img src="https://img.shields.io/badge/OCR-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/98'><img src="https://img.shields.io/badge/Python typing-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/99'><img src="https://img.shields.io/badge/Python typing-yellow?style=flat&logo=alt=DailylogoColor=white"/></a> 
   
 ## ✅주간 회고정리
 - <a href='https://eumgill98.tistory.com/47'><img src="https://img.shields.io/badge/Week1-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/60'><img src="https://img.shields.io/badge/Week2-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/69'><img src="https://img.shields.io/badge/Week3-yellow?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/75'><img src="https://img.shields.io/badge/Week4-green?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/81'><img src="https://img.shields.io/badge/Week5-blue?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/84'><img src="https://img.shields.io/badge/Week6-navy?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/85'><img src="https://img.shields.io/badge/Week7-purple?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://eumgill98.tistory.com/89'><img src="https://img.shields.io/badge/Week8-Red?style=flat&logo=alt=DailylogoColor=white"/></a> 
@@ -53,7 +56,7 @@
   <b>팀 Notion : <a href='https://bottlenose-oak-2e3.notion.site/Notion-702a1a2c36f24f8e8d45eed1fc9ec677'><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&NotionlogoColor=white"/></a></b>
   
     
-  <b>팀 회고 정리  <a href='https://bottlenose-oak-2e3.notion.site/WEEK-9-c730ed833d474ceb9542b38ce1f6e635'><img src="https://img.shields.io/badge/Week9-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/WEEK-10-a752cac1b8bf4bac8c4eeebd830c53db'><img src="https://img.shields.io/badge/Week10-orange?style=flat&logo=alt=DailylogoColor=white"/></a>
+  <b>팀 회고 정리  <a href='https://bottlenose-oak-2e3.notion.site/WEEK-9-c730ed833d474ceb9542b38ce1f6e635'><img src="https://img.shields.io/badge/Week9-red?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/WEEK-10-a752cac1b8bf4bac8c4eeebd830c53db'><img src="https://img.shields.io/badge/Week10-orange?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/WEEK-11-4db33466b83d4fe6a0ca8a2b142afb34?pvs=4'><img src="https://img.shields.io/badge/Week11-yellow?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/WEEK-12-772add576fff43b7bec3d62b6e3c6ed1?pvs=4'><img src="https://img.shields.io/badge/Week12-green?style=flat&logo=alt=DailylogoColor=white"/></a> <a href='https://bottlenose-oak-2e3.notion.site/WEEK-13-7a4269834117437fa3ee7709afe647b3?pvs=4'><img src="https://img.shields.io/badge/Week13-blue?style=flat&logo=alt=DailylogoColor=white"/></a>
    
 
 
